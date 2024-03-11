@@ -3,6 +3,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-	cout << "Main";
+	cout << "Quy";
 	return 0;
 }
