@@ -3,6 +3,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-	cout << "89- Quy";
+	cout << "Main";
 	return 0;
 }
