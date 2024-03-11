@@ -3,6 +3,6 @@
 #include <iostream>
 using namespace std;
 int main() {
-	cout << "Hello World!";
+	cout << "Main!";
 	return 0;
 }
